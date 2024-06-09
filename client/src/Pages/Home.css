@@ -1,0 +1,29 @@
+.viewBook {
+  outline: none;
+  border: 1px solid white;
+  background-color: transparent;
+  padding: 4px 20px 8px 20px;
+  color: antiquewhite;
+  font-size: 20px;
+  font-weight: 400;
+  border-radius: 7px;
+  text-decoration: none;
+}
+
+.viewBook:hover{
+  background-color: antiquewhite;
+  color: black;
+  border-radius: 10px;
+  font-weight: 500;
+}
+
+.Home-Page {
+  width: 100%;
+  min-height: 91.5vh;
+  max-height: auto;
+}
+.homeImg {
+  width: 500px;
+  height: 570px;
+  border: 1px solid antiquewhite;
+}
